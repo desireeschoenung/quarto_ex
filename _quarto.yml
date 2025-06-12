@@ -1,5 +1,5 @@
 project:
   title: "quarto_ex"
 
-output-dir: docs/
+  output-dir: docs/
 
